@@ -64,7 +64,7 @@ y presiona Enter. ¡Felicitaciones, has creado un directorio!
 
 ### Crear un Repositorio
 
-Entra a github.com y logueate con tu usuario. Luego en la parte de arriba a la derecha buscá el signo '+' y elegí 'new repository'.
+Entra a github.com y logueate con tu usuario. Luego en la parte arriba a la derecha buscá el signo '+' y elegí 'new repository'.
 
 ![alt](../../_src/assets/01-Git/repo-create.png)
 
